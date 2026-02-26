@@ -1,5 +1,4 @@
-(Copy and paste the code snippets of this markdown on the link below)
-https://jupyter.org/try-jupyter/lab/
+Copy and paste the code snippets of this markdown on this link: https://jupyter.org/try-jupyter/lab/
 
 # **Automatidata project**
 **Course 1 - Foundations of Data Science**
