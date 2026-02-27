@@ -1,3 +1,6 @@
+Copy and paste the code snippets of this markdown on this link: https://jupyter.org/try-jupyter/lab/
+
+
 # **Waze Project**
 **Course 1 - Foundations of Data Science**
 
